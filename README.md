@@ -13,9 +13,9 @@ See those projects for more information.
 
 For an alternate approach to add HTML5 Boilerplate and Twitter Bootstrap, see [Brunch with Chaplin and Bootstrap](https://github.com/vip32/brunch-with-chaplin-and-bootstrap).
 The primary difference between this project and that one is this project includes the individual
-bootstrap style and javascript plugin files so you can modify or omit ones you don't want.
+bootstrap LESS style files and javascript plugin files so you can modify or omit ones you don't want.
 [Brunch with Chaplin and Bootstrap](https://github.com/vip32/brunch-with-chaplin-and-bootstrap) includes only the
-compiled versions of those files.
+compiled/merged versions of those files.
 
 Requires Brunch 1.3+.
 
@@ -30,6 +30,14 @@ The problem appears to have been fixed in Brunch 1.4.0-pre.
 
 See [Chaplin github page](https://github.com/chaplinjs/chaplin) for
 documentation.
+
+## Example app using this skeleton
+
+[Here is a fork of the brunch Todos app](https://github.com/DallanQ/todos) that uses this skeleton.
+
+If you want to learn how to use the brunch-with-chaplin framework, [Ost.io](https://github.com/paulmillr/ostio)
+and this Todos app fork are good places to begin. Just be aware that the ToDos app fork is my first effort with
+brunch-with-chaplin, so it's probably not optimal.
 
 ## Integrating Initializr
 
