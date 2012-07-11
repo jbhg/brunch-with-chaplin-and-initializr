@@ -9,3 +9,4 @@ describe 'Header', ->
 
   it 'should contain 3 items', ->
     expect(@model.get 'items').to.have.length 3
+

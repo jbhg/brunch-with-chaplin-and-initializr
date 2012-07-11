@@ -18,9 +18,13 @@
 .tmproj
 nbproject
 Thumbs.db
+.idea
 
 # NPM packages folder.
 node_modules/
+
+# public folder
+public/
 
 # Brunch folder for temporary files.
 tmp/
